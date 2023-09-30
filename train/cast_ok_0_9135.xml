@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>cast_ok_0_9135.jpeg</filename>
+	<path>/my-project-name/cast_ok_0_9135.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>CastingProduct</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>12</ymin>
+			<xmax>467</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
