@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20230420_161629.jpg</filename>
+	<path>/my-project-name/IMG_20230420_161629.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>2880</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>484</ymin>
+			<xmax>1517</xmax>
+			<ymax>1417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>1463</ymin>
+			<xmax>1500</xmax>
+			<ymax>2425</ymax>
+		</bndbox>
+	</object>
+</annotation>

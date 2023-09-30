@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>IMG_20230420_171235.jpg</filename>
+	<path>/my-project-name/IMG_20230420_171235.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>4320</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>17</ymin>
+			<xmax>2077</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>2256</ymin>
+			<xmax>1928</xmax>
+			<ymax>4250</ymax>
+		</bndbox>
+	</object>
+</annotation>
